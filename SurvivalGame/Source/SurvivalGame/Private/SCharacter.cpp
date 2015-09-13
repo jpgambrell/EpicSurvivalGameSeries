@@ -334,12 +334,13 @@ void ASCharacter::SetIsJumping(bool NewJumping)
 }
 
 
-void ASCharacter::OnLanded(const FHitResult& Hit)
+/*void ASCharacter::OnLanded(const FHitResult& Hit)
 {
 	Super::OnLanded(Hit);
 
 	SetIsJumping(false);
 }
+*/
 
 void ASCharacter::ServerSetIsJumping_Implementation(bool NewJumping)
 {

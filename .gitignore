@@ -22,3 +22,5 @@ SurvivalGame/SurvivalGame.opensdf
 SurvivalGame/Binaries/Win64/SurvivalGame.exp
 *.log
 SurvivalGame/Binaries/Win64/SurvivalGame.lib
+*.dll
+SurvivalGame/Binaries/Win64/UE4Editor-SurvivalGame.dll
